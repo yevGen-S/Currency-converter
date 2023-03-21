@@ -1,5 +1,7 @@
 # Currency-converter
-React app for converting currencies
+React app for converting currencies.
+
+## Using of api to get real currencies.
 
 ### Converter page
 ![image](https://user-images.githubusercontent.com/63201619/226686624-1248225a-c79c-407e-a7d8-43f79ac3e393.png)
